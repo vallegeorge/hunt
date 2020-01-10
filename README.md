@@ -8,3 +8,12 @@ expo init hunt
 
 cd hunt
 npm start 
+
+------------------------------
+para instalar webview:
+
+1. Add react-native-webview to your dependencies
+$ yarn add react-native-webview
+
+2. Link native dependencies
+$ react-native link react-native-webview
